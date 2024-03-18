@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalAssignmentApp</string>
+    <string name="log_in">LOG IN</string>
+    <string name="not_a_member_sign_up_now">NOT A MEMBER? SIGN UP NOW</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
